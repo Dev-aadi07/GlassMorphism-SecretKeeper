@@ -21,7 +21,7 @@ A sleek and aesthetic quotes/secrets app built with **React + Tailwind CSS**, fe
 
 ## 📸 Preview
 
-![screenshot](./public/screenshot.png)  
+![screenshot](./public/glass.png)  
 *(You can upload and link your real screenshot here)*
 
 ---
